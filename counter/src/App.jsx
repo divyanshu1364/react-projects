@@ -18,6 +18,7 @@ function App() {
       <h2>Counter: {count}</h2>
       <button onClick={addValue}>Add Value</button>
       <button onClick={removeValue}>Remove Value</button>
+      <h3>limits are from 0 to 20</h3>
     </>
   )
 }
